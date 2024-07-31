@@ -1,7 +1,7 @@
-## Hi there 👋
+## bem vindos ao meu perfil 👋
 
-<!--
-**richardmpaula/richardmpaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**meu nome é richard** 
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
